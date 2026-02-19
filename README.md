@@ -35,8 +35,9 @@
 - 🧠 Strong in **DSA with Python** and **OOP with C/Java**
 - 🔬 **Patent Holder** — Tumour Detection Using Deep Learning (2025)
 - 🏆 **Technical Lead** at MaJIStic Cultural Fest, JIS College (2024-26)
+- 🏅 **TCS CodeVita Season 12** — Global Rank **5539** (Username: `gaurav101`)
 - 🌱 Currently working on **2 advanced AI projects** to push into the Agentic AI & GenAI space
-- 📫 Reach me at **gauravkumarmehta100@gmail.com**
+- 📫 Reach me at **<gauravkumarmehta100@gmail.com>**
 - 🌐 Portfolio: **[gauravkumarmehta.com](http://www.gauravkumarmehta.com)**
 
 ---
@@ -145,6 +146,7 @@
 | 💻 **C Language Certification** — NPTEL | 2025 |
 | 🌐 **MERN Full Stack Certification** — Ardent | 2025 |
 | 🤖 **OpenAI Agents & Agentic AI** — Self-learning & Building Projects | 2025 |
+| 🏅 **TCS CodeVita Season 12** — Global Rank **5539** (Username: `gaurav101`) | 2025 |
 
 ---
 
@@ -177,7 +179,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p align="center">
   <b>I'm always open to collaborating on exciting projects, especially in the AI & Full-Stack space!</b>
