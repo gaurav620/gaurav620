@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 **Final Year B.Tech CSE** student at **JIS College of Engineering**, Kalyani, WB (CGPA: 7.63)
+- 🎓 **Final Year B.Tech CSE** student at **JIS College of Engineering**, Kalyani, WB (CGPA: 7.78)
 - 💻 **Full-Stack MERN Developer** — building production-grade web & mobile applications
 - 🤖 Currently exploring **OpenAI Agents SDK**, **Agentic AI**, and **Generative AI**
 - 📘 Completed **IBM SkillsBuild Generative AI** coursework — learned prompt engineering, LLM fundamentals & AI applications
