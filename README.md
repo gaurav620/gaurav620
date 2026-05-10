@@ -2,7 +2,7 @@
 <!-- Copy this entire file as README.md in your gaurav620/gaurav620 repository -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gaurav+Kumar+Mehta;Full-Stack+MERN+Developer;AI+%26+Agentic+Systems+Explorer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gaurav+Kumar+Mehta;Final+Year+B.Tech+CSE+Student;Full+Stack+MERN+Developer;Exploring+Agentic+AI+and+LLMs" />
 </h1>
 
 <h3 align="center">
@@ -80,20 +80,20 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏘️ PropertyFinder App</h3>
+      <h3 align="center">🧠 DataMind-Ai</h3>
       <p align="center">
-        <a href="https://github.com/gaurav620/PropertyFinder-App"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/gaurav620/DataMind--AIPowered-Analytics-Dashboard-"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <p>React Native real estate mobile app with property listings, search/filters, favorites (AsyncStorage), maps & comparison. <b>Led team of 4 developers.</b></p>
-      <p><b>Tech:</b> React Native, Expo, Context API</p>
+      <p>Built for GFG Hackfest 2026: an ultra-premium, client-side AI analytics dashboard that lets you upload any CSV and ask questions in plain English. It auto-parses columns, generates SQL logic, and visualizes answers entirely in-browser.</p>
+      <p><b>Tech:</b> React 18 + Vite, Tailwind CSS, OpenAI GPT-4o-mini, Recharts, Framer Motion, PWA</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Full Stack AI Agent</h3>
+      <h3 align="center">🏍️ Bike & Scooter Rental</h3>
       <p align="center">
-        <a href="https://github.com/gaurav620/Full_Stack_Ai_AGENT"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/gaurav620/bike-scooter-rental-system"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <p>Complete AI Agent application integrating LLMs with full-stack web technologies for intelligent automation and conversation.</p>
-      <p><b>Tech:</b> JavaScript, AI/LLM Integration</p>
+      <p>Platform with booking, authentication, payment, and real-time tracking for vehicle rentals.</p>
+      <p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB</p>
     </td>
   </tr>
   <tr>
@@ -116,12 +116,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏍️ Bike & Scooter Rental</h3>
+      <h3 align="center">🤖 Full Stack AI Agent</h3>
       <p align="center">
-        <a href="https://github.com/gaurav620/bike-scooter-rental-system"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/gaurav620/Full_Stack_Ai_AGENT"><img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <p>Platform with booking, authentication, payment, and real-time tracking for vehicle rentals.</p>
-      <p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB</p>
+      <p>Complete AI Agent application integrating LLMs with full-stack web technologies for intelligent automation and conversation.</p>
+      <p><b>Tech:</b> JavaScript, AI/LLM Integration</p>
     </td>
     <td width="50%">
       <h3 align="center">☕ TopCup</h3>
