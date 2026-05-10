@@ -64,13 +64,13 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React.js, React Native, HTML5, CSS3, JavaScript (ES6+), Bootstrap, TypeScript (Learning) |
-| **Backend** | Node.js, Express.js, REST APIs |
+| **Frontend** | Next.js, React.js, HTML5, Tailwind CSS, JavaScript (ES6+), Bootstrap, TypeScript (Learning) |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, Clerk |
 | **Databases** | MongoDB, SQL |
 | **AI & GenAI** | OpenAI Agents SDK, Agentic AI, Generative AI (IBM SkillsBuild), Python ML Libraries |
 | **AI/ML Tools** | OpenCV, Deep Learning, TensorFlow (Basics) |
-| **Mobile** | React Native, Expo |
-| **Core CS** | Data Structures & Algorithms (Python), OOP (C, Java) |
+| **Mobile** | React Native, Expo {learning basics} |
+| **Core CS** | Data Structures & Algorithms (Python), OOP (C) |
 | **Tools** | Git, GitHub, VS Code, Postman, npm |
 
 ---
