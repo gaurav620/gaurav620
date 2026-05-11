@@ -38,7 +38,7 @@
 - 🏅 **TCS CodeVita Season 12** — Global Rank **5539** (Username: `gaurav101`)
 - 🌱 Currently working on **2 advanced AI projects** to push into the Agentic AI & GenAI space
 - 📫 Reach me at **<gauravkumarmehta100@gmail.com>**
-- 🌐 Portfolio: **[gauravkumarmehta.com](http://www.gauravkumarmehta.com)**
+- 🌐 Portfolio: **[gauravkumarmehta.com](https://my-portfolio-alpha-lime-36.vercel.app/index.html)**
 
 ---
 
